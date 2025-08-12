@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WiFiMeasure</string>
+
+<!--Screen names-->
+    <string name="connected_networks">Connected Networks</string>
+    <string name="network_params">Network Parameters</string>
+    <string name="history">History</string>
+    <string name="database">Database</string>
+</resources>
