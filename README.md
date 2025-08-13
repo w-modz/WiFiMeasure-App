@@ -1,8 +1,19 @@
 # 📡 WiFiMeasure
 
-WiFiMeasure is an Android app that lets you measure **signal strength**, **distance to access point**, **link speed**, and **network frequency** in real time — with interactive graphs for visualizing signal strength over time.
+<table>
+  <tr>
+    <td>
+      WiFiMeasure is an Android app that lets you measure <b>signal strength</b>, <b>distance to access point</b>, <b>link speed</b>, and <b>network frequency</b> in real time — with interactive graphs for visualizing signal strength over time.
+      <br><br>
+      The app was built to help optimize access point placement indoors by helping to analyze signal strength.
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0142177c-7bed-4b51-8404-34f70f1de041" alt="App Screenshot" width="800"/>
+    </td>
+  </tr>
+</table>
 
-The app was built to help optimize access point placement indoors by helping to analyze signal strength.
+
 
 ---
 
